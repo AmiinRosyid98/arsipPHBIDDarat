@@ -1,0 +1,10 @@
+butuh library:
+1. pandas
+2. requests
+3. sqlalchemy
+
+	› pip install pandas requests sqlalchemy
+
+1. jalankan arsip.py
+2. menu 1 untuk generate file excel dari SQL query untuk mengarsip, perlu inputkan range awal dan akhir.
+3. sebelum memiliih opsi 2, rename file excel yang ingin dijalankan menjadi ›doit.xlsx, setelah itu foto akan terunduh ke folder "dokumen_download" berdasarkan file doit.xlsx pada kolom "path"
